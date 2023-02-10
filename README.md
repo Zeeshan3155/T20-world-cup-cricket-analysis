@@ -1,5 +1,5 @@
 
-# Cricket analysis
+# T20 World Cup Cricket analysis
 
 This is a data analytics project where I have used the T20 world cup (2022) data to build insights on players to select the top 11 players' teams. I used beautiful soup and selenium to scrape data from the website then performed some data transformation and cleaning in pandas, followed by building dashboards in PowerBI.
 
