@@ -4,11 +4,11 @@ The Cricket Analysis dashboard is a Power BI dashboard that provides insights in
 
 ## 📸Screenshots
 DASHBOARD  
-![App Screenshot](https://drive.google.com/uc?export=view&id=10ceKktv4QF91EEqjj_Tp8o4CtzKv7mhy)  
+![App Screenshot](https://drive.google.com/uc?export=view&id=1Wmci5VjMSdhiuSgG-2gpI1Hf-oKCw5OJ)  
 FINAL 11  
-![App Screenshot](https://drive.google.com/uc?export=view&id=1nOppgjU0qcWdLBXj3-q_yC9F0eBZutwV)    
+![App Screenshot](https://drive.google.com/uc?export=view&id=1psIYqfCXKu1T5Z0UNz16Cxp8GjBU65a6)    
 TOOLTIP  
-![App Screenshot](https://drive.google.com/uc?export=view&id=1WEfOeRhFGw_K1xaIpbdYiTTuygUzUPST) 
+![App Screenshot](https://drive.google.com/uc?export=view&id=1e-CE5ZLjvOnixBNXig8FO73IP2EhBftr) 
 ## 👣Steps involved
 1) Data scraping using requests, beautiful soup and selenium.
 2) Data cleaning using pandas and numpy.
