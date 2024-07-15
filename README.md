@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/81839e5c-e412-43db-85eb-855081cdbf0f
 3) Numpy and Pandas for data cleaning.
 4) PowerBI for creating report.
 
-##Conclusion
+## Conclusion
 The Cricket Analysis dashboard provides a valuable tool for cricket selectors to make data-driven decisions and select the best possible team for T20 matches. By utilizing data from espncricinfo and leveraging the power of Power BI, the dashboard helps in identifying top performers and increasing the chances of winning.
 
 # Hi, I'm Zeeshan! 👋
