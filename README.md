@@ -9,14 +9,16 @@ The Cricket Analysis dashboard is a Power BI dashboard that provides insights in
 * **High Success Rate:** The final team selected using the dashboard has a 90% chance of winning, highlighting the effectiveness of data-driven decision-making in sports.
 
 ## Screenshots
-DASHBOARD  
+### DASHBOARD  
  ![cr1](https://github.com/user-attachments/assets/019a5d2f-1358-4d94-a86e-06fcf14e6400)
 
-FINAL 11  
+### FINAL 11  
 ![cr5](https://github.com/user-attachments/assets/7b71485f-8df9-40b4-92bf-9f70c2d31588)
 
-Working
+### Working
+
 https://github.com/user-attachments/assets/81839e5c-e412-43db-85eb-855081cdbf0f
+
 
 ## Technologies Used
 * **Web Scraping:** Beautiful Soup
